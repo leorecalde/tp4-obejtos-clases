@@ -10,7 +10,7 @@ JavaScrip
 ## backup del proyecto
 
 aqui se encuentra el repo del mismo
-[link github](https://github.com/leorecalde/tp3-arrays-funciones.git)
+[link github](https://github.com/leorecalde/tp4-obejtos-clases.git)
 
 
 ## Autor:
